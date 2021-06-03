@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A publick and pious design for the preserving the generous youth, and consequently the nation from rvine.</title>
+            <author>Panton, Edward.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27815</idno><idno type="EEBO-CITATION">99890777</idno>
+  <idno type="VID">204081</idno>
+  <idno type="EEBO-PROQUEST">2240914496</idno>
+  
+            <idno type="OCLC"> 12798305</idno>
+            <idno type="STC">Wing P276</idno>
+            <idno type="STC">Interim Tract Supplement Guide 599.i.24[5]</idno>
+            <idno type="STC">ESTC R5807</idno>
+            <idno type="PROQUEST">ocm99890777</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890777e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204081)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F1:1[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A publick and pious design for the preserving the generous youth, and consequently the nation from rvine.</title>
+                  <author>Panton, Edward.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Kings Most Excellent Majesty, the humble petition of Edward Panton ..": p. 3.</note>
+                  <note>Concerns the establishment of a Royal Academy for the education and training of youth in England.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Education --  England --  Early works to 1800.</term>
+               <term type="topical_term">Education, Primary --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204081:1"/>
+            <pb facs="tcp:204081:1"/>
+            <p> A PUBLICK and PIOUS DESIGN FOR THE PRESERVING THE Generous YOUTH, And Consequently the NATION From <hi>RƲINE.</hi>
+            </p>
+            <q>
+               <hi>Difficilia quae pulchra.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for the AUTHOR. 1676.</p>
+            <pb facs="tcp:204081:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:204081:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He Designer having long sadly considered the great Dishonour and Prejudice this Nation receives by sending the Sons of our prime Nobility and Gen<g ref="char:EOLhyphen"/>try too early into <hi>France,</hi> before they are well<g ref="char:EOLhyphen"/>principled in Religion, and practized in active Ver<g ref="char:EOLhyphen"/>tue at Home; He believed he could not do a greater Service to <hi>GOD,</hi> his <hi>KING</hi> and Country, than to set forth a Model, or Method pursuant to that end.</p>
+            <p>And forasmuch as nothing is more Essential and Conservative of the Weal and Happiness we see and enjoy within this Island, Wall'd, Water'd, Warm'd and Enrich'd with the Daily Flowings of the Sea, than that the Successive Nobless, and infinite Gentry of His <hi>MAJE<g ref="char:EOLhyphen"/>STIES</hi> Kingdoms and Dominions, stand Qualified and Enabled to serve His <hi>MAJESTY</hi> substantially in the Support of the Crown and Government, by an Exemplary Life and Behaviour to the rest of their Fellow-Subjects, and Foreigners flocking to Us: And that Experience hath shewed how Troublesom, Dangerous and Costly it hath been, and is sure long to be, for our Young Nobility and Gentry to be sent Abroad raw, with or without Governours and Tutors, or Servants, ere they be Principl'd and Season'd in good measure at Home; have Languages, Exercises, and competent Judg<g ref="char:EOLhyphen"/>ment to use their Travels with Advantage; as may appear by the following Disparities.</p>
+            <div type="comparisons">
+               <head>
+                  <hi>A Short Survey of Profitable Disparities, incident to the Design of This</hi> ACADEMY.</head>
+               <div type="point_of_comparison">
+                  <p>WHereas Noblemens and Gentlemens Sons are not sent beyond Sea at any Age, but under a very sensible Charge, and Yearly Expence, and are the more exposed to the Humours, and self-concerned Practises of Strangers, being at great distance from Home:</p>
+                  <p>THey will in this <hi>Academy,</hi> close to <hi>London,</hi> be entred from their Pa<g ref="char:EOLhyphen"/>rents own Laps and Coaches, uncharge<g ref="char:EOLhyphen"/>ably and safely, and will be there che<g ref="char:EOLhyphen"/>risht as their tenderness may require, and observed how they profit, and grow capable for Travel, secured so long from the Plots and Humours of unknown and unseen Teachers, and Debaucheries in Religion and Man<g ref="char:EOLhyphen"/>ners, till reasonably confirmed in both.</p>
+               </div>
+               <div type="point_of_comparison">
+                  <pb n="2" facs="tcp:204081:3"/>
+                  <p> WHereas at <hi>Paris,</hi> and other <hi>Academies</hi> be<g ref="char:EOLhyphen"/>yond the Seas, our Noblemen and Young Gentry are not much esteemed, if they spend not 5. or 600 <hi>l. per ann.</hi> a piece, at the least, and more as they advance in Age:</p>
+                  <p>THey may in this <hi>Academy</hi> Learn twice as much, and be better Treated for two thirds, with full Reputation; and by consequence in five or six Years save at least so much as they will need to spend in their Travels Abroad, if requisite.</p>
+               </div>
+               <div type="point_of_comparison">
+                  <p>WHereas Diseases are fre<g ref="char:EOLhyphen"/>quentest upon Youth from 15. or 16. Years Old downwards, and more affli<g ref="char:EOLhyphen"/>ctive to Parents, and dange<g ref="char:EOLhyphen"/>rous to themselves, when over<g ref="char:EOLhyphen"/>early shifted to a Foreign Cli<g ref="char:EOLhyphen"/>mate:</p>
+                  <p>THe like Accidents will be more tolerable and hopeful for re<g ref="char:EOLhyphen"/>covery in this <hi>Academy;</hi> whence, as occasion presses, Patients will be ea<g ref="char:EOLhyphen"/>sily removed to Parents, Friends, Bath, and Change of Air, till they can Travel in a more confirm'd state of Health.</p>
+               </div>
+               <div type="point_of_comparison">
+                  <p>WHereas some of our Neighbouring and Re<g ref="char:EOLhyphen"/>moter Countries have under<g ref="char:EOLhyphen"/>valued and dis-esteemed our Noblemen and Young Gen<g ref="char:EOLhyphen"/>try, sometimes for not having Lived or Studied in their <hi>Aca<g ref="char:EOLhyphen"/>demies:</hi>
+                  </p>
+                  <p>BY this Seasonable Frequentation of our (hoped) Incomparable One at Home, we shall soon be quit with them, and draw over the whole Reputation to Ours, as much as our Universities carry the Bays away from all that are in the World be<g ref="char:EOLhyphen"/>sides.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <p>These Previous Arguments, besides the Love of my Country, with the Encouragements following, made me, to my great Charge and Trouble, set up this Method of Breeding at <hi>Piccadille:</hi> which as soon as it was made Practicable, was Obstructed by certain Per<g ref="char:EOLhyphen"/>sons, whom I forbear yet to mention, reserving them for another time and place: Hoping now all Noble and Generous <hi>PATRIOTS</hi> will give Assistance to so Worthy an Undertaking; and have their Names Recorded in the Book of Fame for True Lovers of their Country.</p>
+            </div>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:204081:3"/>
+            <head>To the KINGS Most Excellent MAJESTY: <hi>The Humble PETITION of EDWARD PANTON, Your MAjESTIES Servant:</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Petitioner, out of a just Zeal to the Glory of GOD, and the Service of Your <hi>MAJESTY</hi> and Kingdoms, doth humbly Pro<g ref="char:EOLhyphen"/>pose the Erecting of a Society at <hi>Chelsey,</hi> or in some other Con<g ref="char:EOLhyphen"/>venient Place near <hi>London,</hi> to be, by Your Gracious Favour and Commands, made capable, and Encouraged to Train up here at Home, the Generous Youth of Your said Kingdoms, securely, in all Manly good Sciences and Exercises; to which any Young Gentlemen from beyond the Seas, may also resort for the same purpose.</p>
+            <p>Now to the end this Proposal, which several of the <hi>Nobility</hi> and <hi>Gentry</hi> are ready to give a happy Beginning unto, and do exceedingly want the Benefit of, to Initiate and Season their Sons, before they step into Sway and Liberty, may take the more speedy Effect:</p>
+            <p>May it please Your most <hi>Sacred MAJESTY,</hi> to bestow upon the said In<g ref="char:EOLhyphen"/>tended Society, the Honour to call it, <hi>Your Royal Academy;</hi> and that a War<g ref="char:EOLhyphen"/>rant be issued in good form, signifying Your Will and Pleasure to Mr. <hi>Attorney</hi> and <hi>Sollicitor General,</hi> or one of them, to prepare a Bill for Your Royal Signa<g ref="char:EOLhyphen"/>ture to pass the Great Seal, containing Your <hi>MAJESTIES</hi> Grant of such a Society to be forthwith Erected and Settled at <hi>Chelsey,</hi> or elsewhere conveniently near <hi>London,</hi> bearing the Name of <hi>Your Royal Academy,</hi> to consist of Your Petitioner, as Regent thereof for his Life; and of a competent number of Fellows, to be desired, by him, out of the Body of the <hi>Royal Society,</hi> and other Personages of Learning, Quality, and known Reputation; together with able and trusty suf<g ref="char:EOLhyphen"/>ficient Officers within the said <hi>Academy,</hi> to be a Body Politick, Active and Pas<g ref="char:EOLhyphen"/>sive, to all the Ends and Purposes before intended, for ever; capable of Gifts, Le<g ref="char:EOLhyphen"/>gacies and Endowments, Real and Personal, Pleading, and being Impleaded, in as full and ample manner as by Patent heretofore was Granted, or intended to be Granted unto Sir <hi>Francis Kynaston</hi> Knight, deceased, by Your <hi>MAJESTIES</hi> most Royal Father, of Immortal Recordation, in the Eleventh Year of His Reign; and comprehending such further Expressions and Clauses, Priviledges, Immuni<g ref="char:EOLhyphen"/>ties, Provisions and Grants to the said <hi>Academy,</hi> Regent and Members thereof, as Your said <hi>Attorney</hi> and <hi>Sollicitor General,</hi> or either of them, with the Peti<g ref="char:EOLhyphen"/>tioners Council Learned, shall advise to be most Legal, and conducing to the Ere<g ref="char:EOLhyphen"/>ction, Subsistence and Increase of this <hi>Your Royal Academy:</hi> Vouchsafing to that end, unto the present, or first and future Regents, Liberty to Chuse and Im<g ref="char:EOLhyphen"/>ploy a sufficient Deputy; and to Intercede with the most Reverend Father in GOD, His Grace the <hi>Lord Archbishop,</hi> Metropolitan of <hi>England,</hi> and the <hi>Lord Chan<g ref="char:EOLhyphen"/>cellor,</hi> or <hi>Lord Keeper</hi> of the Great Seal <hi>pro tempore,</hi> or one of them, that upon any emergent great Occasion, requiring Visitation and Change, or Amendment
+<pb n="4" facs="tcp:204081:4"/> of the Local Rules and Statutes which the said Regent, with his Assisting Council, have from time to time made for the Good and Advantage of the said <hi>Academy,</hi> on due Supplication, and Notice thereof in Writing presented, their <hi>Lordships,</hi> or one of them, be especially Willed by Your <hi>MAJESTIES</hi> Order, finally, <hi>de plano,</hi> to determine all such Grievance, or Matter of Change or Amendment, and to be for ever Friends and Protectors of this Your <hi>Royal Academy and Foun<g ref="char:EOLhyphen"/>dation.</hi> Where Your Indulgence is humbly craved for Gentlemen also, Strangers born, and resorting to this <hi>Academy</hi> from any Kingdoms or Countries beyond the Seas, in Amity with Your <hi>MAJESTY,</hi> That they, and their Servants, may be Received, Accommodated and Trained up in all the said Sciences and Exer<g ref="char:EOLhyphen"/>cises, Conforming to the Rules and Statutes with our Intended Students there.</p>
+            <closer>
+               <hi>All which the Petitioner humbly submits to Your Sacred</hi> MAJESTIES <hi>good Will and Pleasure; And shall ever Pray as in Duty bound,</hi> &amp;c.</closer>
+         </div>
+         <div type="responses">
+            <div type="response">
+               <opener>
+                  <dateline>
+                     <hi>At the Court at</hi> Whitehal, <date>4. Febr. 1668.</date>
+                  </dateline>
+               </opener>
+               <p>HIS <hi>MAJESTY</hi> being Graciously Inclined to Encourage this Design, as Tending to the Laudable Education of Youth, and Good of the Publick; is pleased to refer this Petition to Mr. <hi>Attorney</hi> and Mr. <hi>Sollicitor General,</hi> or to either of them, to consider of the Nature of the Thing, the Proposals made, and the Power and Priviledges desired to be granted: And upon the whole, to make Report to His <hi>MAJESTY</hi> of their Opinion, how far His <hi>MAJESTY</hi> may Gratifie the Petitioner; and then His <hi>MAJESTY</hi> will declare His further Pleasure.</p>
+               <closer>
+                  <signed>Arlington.</signed>
+               </closer>
+            </div>
+            <div type="advice">
+               <head>May it please Your MAJESTY,</head>
+               <p>WE have, in Obedience to Your <hi>MAJESTIES</hi> Commands, considered of this Petition to Ʋs referr'd: And having heard the Petitioner at large touching the Nature of the <hi>Academy</hi> by him endeavoured to be set up, and the whole Method and Design of that Education of Youth which he proposeth to be ob<g ref="char:EOLhyphen"/>served; We do humbly conceive that the same is worthy of all Encouragement, and may prove very Ʋseful to Your <hi>MAJESTIES</hi> Service, and so not unfit to be Honoured with the Title of, <hi>The Royal Academy.</hi> And we do humbly con<g ref="char:EOLhyphen"/>ceive, that the Erection of such an <hi>Academy</hi> will be no way contrary to the Laws or Statutes of Your <hi>MAJESTIES</hi> Kingdom, nor any way prejudicial to the Rights or Liberties of any of Your Subjects, or of any Corporation, or Publick Society whatsoever. All which we humbly submit, <hi>&amp;c.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>10. <hi>April,</hi> 1668.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>G. PALMER,</item>
+                        <item>HENEAGE FINCH.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="academy_charter">
+            <pb n="5" facs="tcp:204081:4"/>
+            <head>The Royal Academy,</head>
+            <div type="part">
+               <p>TO be Settled at <hi>Chelsey,</hi> or some other Convenient Place near <hi>London,</hi> is to be Framed to an Exact Method for the Well-breed<g ref="char:EOLhyphen"/>ing and Education at Home of the</p>
+               <p>
+                  <hi>Youth of Condition,</hi>
+               </p>
+               <p>Natives within this of <hi>England,</hi> and other His MAJESTIES Kingdoms: To fit them for the Service</p>
+               <list>
+                  <item>
+                     <hi>Of GOD,</hi>
+                  </item>
+                  <item>
+                     <hi> Of the KING,</hi> and </item>
+                  <item>
+                     <hi>Of their Country.</hi>
+                  </item>
+               </list>
+               <p>With Freedom for any</p>
+               <p>
+                  <hi>Youth of Quality</hi>
+               </p>
+               <p>also from Parts beyond the Seas, to be admitted Students with Us, under the Rules and Institutes of this our <hi>Academy.</hi> The Institutes whereof will consist of Two Distinct</p>
+               <p>
+                  <hi>Parts, or Schools:</hi>
+               </p>
+               <p>The FIRST,</p>
+               <p>For Youth from VIII. Years Old to X,</p>
+               <p>The SECOND,</p>
+               <p>For Youth and Young-Men under XX. Years of Age.</p>
+               <p>The space of time for their Aboad and Continuance in both Schools, not to exceed Three Years; except for Reasonable Causes. And in each of these Schools to be</p>
+               <p>
+                  <hi>Three Forms, or Classes;</hi>
+               </p>
+               <p>In which the Students not to stay past One whole Year, except for Causes as before.</p>
+            </div>
+            <div n="1.1" type="curriculum">
+               <head>Schol. 1. Ann. 1.</head>
+               <p>
+                  <hi>THe First Year the said Youngest Students are to be carefully Principled in</hi>
+               </p>
+               <p>Religion <hi>and</hi> Mora<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty;</p>
+               <p>
+                  <hi>and Taught to speak</hi>
+               </p>
+               <p>Latin, French, <hi>or</hi> Other Languages,</p>
+               <p>
+                  <hi>according to their Parents Desires, or the Childrens Propensity and Capa<g ref="char:EOLhyphen"/>cities. Also,</hi>
+               </p>
+               <p>Fair Writing, Arithmetick, Dancing, Behaviour, Fenceing, Shooting <hi>with all sorts of Bows,</hi> Wrestling, Swimming, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="1.2" type="curriculum">
+               <head>Schol. 1. Ann. 2.</head>
+               <p>
+                  <hi>THe Second Year, such as please may begin to Study</hi>
+               </p>
+               <p>Greek, Instrumental <hi>and</hi> Vocal Musick, Arithmetical Deeper Rules, <hi>with</hi> Mathematical Introductions, <hi>and</hi> Triangle-Doctrine, Turning, <hi>and other Elegant</hi> Mechanicks:</p>
+               <p>
+                  <hi>Not intermitting the Principles and Exercises before specified.</hi>
+               </p>
+            </div>
+            <div n="1.3" type="curriculum">
+               <head>
+                  <hi>Schol.</hi> 1. <hi>Ann.</hi> 3.</head>
+               <p>THe Third Year they are to pro<g ref="char:EOLhyphen"/>ceed, to be perfect in, as before,</p>
+               <p>
+                  <hi>Latin</hi> and <hi>French;</hi>
+               </p>
+               <p>To Study</p>
+               <p>
+                  <hi>Heraldry, Architecture, Opticks,</hi> and Other <hi>Liberal Sciences:</hi>
+               </p>
+               <p>Constantly heeding to Speak &amp; Write Proper and Short,</p>
+               <p>Without Tautology or Repetition.</p>
+               <pb n="6" facs="tcp:204081:5"/>
+               <p> Then will follow the Second School, for Young Men.</p>
+            </div>
+            <div n="2.1" type="curriculum">
+               <head>
+                  <hi>Schol.</hi> 2. <hi>Ann.</hi> 1.</head>
+               <p>IN this Second School will be no other Speech familiar, but</p>
+               <p>
+                  <hi>Latin, French, Italian</hi> and <hi>Spanish;</hi>
+               </p>
+               <p>And there will be Taught the further <hi>Sciences,</hi> and what belongs to per<g ref="char:EOLhyphen"/>fecting their <hi>Exercises</hi> aforesaid. Also,</p>
+               <p>
+                  <hi>Riding,</hi> with the <hi>Manage</hi> of Warlike Arms, <hi>Drilling, Embattailing, Fortification,</hi> and <hi>Surveying Lands.</hi>
+               </p>
+            </div>
+            <div n="2.2" type="curriculum">
+               <head>
+                  <hi>Schol.</hi> 2. <hi>Ann.</hi> 2.</head>
+               <p>ALL this to be further Studied, Exercised, and Cultivated. And now will be laid the Elements of</p>
+               <p>
+                  <hi>Navigation, Drawing, Painting, Graving, Etching; The Ʋse of both Globes, Maps, Instruments</hi> and <hi>Books;</hi>
+               </p>
+               <p>Especially those relating to the fit Knowledge of His <hi>MAJESTIES</hi> Kingdoms and Dominions; with the</p>
+               <p>
+                  <hi>Antiquities, Nature</hi> and <hi>Customs</hi> thereof;</p>
+               <p>All the said <hi>Exercises</hi> mean while duly proceeding.</p>
+            </div>
+            <div n="2.3" type="curriculum">
+               <head>
+                  <hi>Schol.</hi> 2. <hi>Ann.</hi> 3.</head>
+               <p>THe Third Year, all these <hi>Sciences</hi> and <hi>Exercises</hi> to be more exactly Compleated in every Student, as his Genius and Abilities dispose him.</p>
+               <p>For it is to be presumed, that by this time these Students will be ren<g ref="char:EOLhyphen"/>dred capable</p>
+               <p>
+                  <hi>Of Ʋniversity-Learning, Of the Inns of Court, Of Attendance at Court, Of Imploy in the Army or Navy,</hi> Or <hi>To Travel beyond Sea with Cre<g ref="char:EOLhyphen"/>dit and Profit;</hi>
+               </p>
+               <p>And so Fortified against Evil Impres<g ref="char:EOLhyphen"/>sions, which Undisciplin'd Youth are frequently ensnared withal in other Countries.</p>
+            </div>
+         </div>
+         <div type="summary">
+            <p>For it is intended, That in every Form or School and Classis, <hi>HISTORY</hi> shall be constantl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Read and Expounded in the Learned and other Lan<g ref="char:EOLhyphen"/>guages before spe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fied, suitable to the Level of the School and Scholars.</p>
+            <p>And that the H<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs of Rising and Going to Rest, Prayer, Studying, Ex<g ref="char:EOLhyphen"/>ercise, Refection, Disport, <hi>&amp;c.</hi> shall be duly apportion'd according to the Seasons, and Mat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers to be Treated or Done therein.</p>
+            <p>As also that the Regent, and his Assisting Council, will provide a Suf<g ref="char:EOLhyphen"/>ficient Number of Able Professors, and other Ministerial Well-qualified Persons, to perform all this with Order and <hi>Decorum.</hi>
+            </p>
+            <p>Such Assisting Council, to consist of about Ten or Twelve Learned, So<g ref="char:EOLhyphen"/>ber, Publick-spirited Persons; by whose Advice once a Month, or oftner as need shall be, He may from time to time be enabled, with them, to carry on this Work, to <hi>GOD</hi>'s Glory, the Honour and Satisfaction of the <hi>KING,</hi> and the Real Service and Benefit of His <hi>MAJESTIES</hi> Friends Abroad, and Loyal Subject<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in His several Kingdoms and Dominions.</p>
+            <pb facs="tcp:204081:5"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
